@@ -1,0 +1,17 @@
+{
+    "name": "senotangguhprabowosmknkudus2gmail.com/phpcomposer",
+    "description": "belajarcomposer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Senotangguhprabowosmknkudus2gmailCom\\Phpcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "seno23",
+            "email": "senotangguhprabowosmknkudus2@gmail.com"
+        }
+    ],
+    "require": {}
+}
